@@ -1,0 +1,5 @@
+Configuración,Accuracy,Precision,Recall,F1-score,Val. loss
+act=ReLU / loss=CrossEntropy (base),0.9542,0.955,0.9542,0.9544,0.2498
+act=sigmoid,0.9507,0.9511,0.9507,0.9507,0.1723
+act=tanh,0.9452,0.9456,0.9452,0.9452,0.2102
+loss=MSE,0.9532,0.9534,0.9532,0.9532,0.0074
